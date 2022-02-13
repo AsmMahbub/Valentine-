@@ -1,0 +1,8 @@
+x = Msgbox("YOUR PC HAS BEEN HACKED",48,"WARNING!!!")
+x = Msgbox("Your computer has been infected by a deadly virus", 48, "WARNING!!!")
+y = Msgbox("Virus has infected your entire C: Drive. Would you like to format it to remove it?", 48+4, "ACT FAST")
+z = Msgbox("Please answer the following question",32,"ANSWER NOW")
+h = Msgbox("Will..",32,"<3")
+a = Msgbox("you be ..",32,"<3")
+b = Msgbox("my valentine?",4+16,"<3")
+b = Msgbox("Thank you for answering :D", 32, "<3")
